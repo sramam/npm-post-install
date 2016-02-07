@@ -1,6 +1,6 @@
 {
   "name": "npm-post-install",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Configure a npm git repo",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,21 @@
     "expand-home-dir": "0.0.2",
     "inquirer": "^0.11.4",
     "shelljs": "^0.6.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sramam/npm-post-install.git"
+  },
+  "keywords": [
+    "npm",
+    "git",
+    "boiler-plate",
+    "configure",
+    "repo"
+  ],
+  "bugs": {
+    "url": "https://github.com/sramam/npm-post-install/issues"
+  },
+  "homepage": "https://github.com/sramam/npm-post-install#readme"
 }
